@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AJDB
 - 👀 I’m interested in videojuegos 
 - 🌱 I’m currently learning C# para unity
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on cualquier proyecto basico con unity
 
 
 <!---
